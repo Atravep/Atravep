@@ -4,7 +4,46 @@
 
 -<img src="./html.png">
 
-Here are some ideas to get you started:
+Here are some ideas to html.png
+imagenes.txt
+Editing imagenes.txt in Atravep
+BreadcrumbsAtravep/img
+/
+imagenes.txt
+in
+main
+
+Edit
+
+Preview
+Indent mode
+
+Spaces
+Indent size
+
+2
+Line wrap mode
+
+Soft wrap
+Editing imagenes.txt file contents
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
